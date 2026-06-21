@@ -1,4 +1,4 @@
-# Project 2: Synchronous FIFO
+# Synchronous FIFO
 
 ## Overview
 This project implements an **8-bit Synchronous FIFO (First-In First-Out)** buffer in Verilog HDL.  
