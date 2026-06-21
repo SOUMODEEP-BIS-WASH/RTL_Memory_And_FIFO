@@ -18,7 +18,7 @@ All designs were implemented and tested using **AMD Vivado**.
 
 ## Repository Structure
 
-### Project 1: 256×8 Dual Port SRAM
+### Dual_Port_SRAM
 Implementation of a parameterized dual-port SRAM supporting independent read and write addressing with synchronous operation.
 
 **Key Concepts:**
@@ -29,7 +29,7 @@ Implementation of a parameterized dual-port SRAM supporting independent read and
 
 ---
 
-### Project 2: Synchronous FIFO
+### Synchronous_FIFO
 Implementation of an 8-bit synchronous FIFO using a single clock domain with circular buffer logic and full/empty detection.
 
 **Key Concepts:**
@@ -40,7 +40,7 @@ Implementation of an 8-bit synchronous FIFO using a single clock domain with cir
 
 ---
 
-### Project 3: Asynchronous FIFO
+### Asynchronous_FIFO
 Implementation of an asynchronous FIFO supporting independent read and write clock domains using Gray code pointer synchronization.
 
 **Key Concepts:**
